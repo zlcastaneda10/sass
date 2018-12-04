@@ -1,0 +1,13 @@
+$colorR : #00FF00;
+h1{
+    color: aqua;
+ 
+}
+header{
+    p{
+        color: $colorR;
+    }
+    strong{
+        color: $colorR;
+    }
+}
